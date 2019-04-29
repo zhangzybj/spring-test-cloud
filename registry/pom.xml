@@ -6,7 +6,7 @@
 
     <parent>
         <groupId>com.scapital</groupId>
-        <artifactId>spring-boot-cloud</artifactId>
+        <artifactId>spring-scapital-cloud</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
